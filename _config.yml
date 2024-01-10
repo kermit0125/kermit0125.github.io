@@ -83,11 +83,11 @@ author:
   name             : "Xing Keming"
   avatar           : "my_photo.png"
   bio              : "Hello. Nice to meet you. I am person who like computer vision. If you have any doubt. Please contact me."
-  China-Shanghai         : "China-Shanghai"
+  Location:China-Shanghai         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "kermit0125@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
