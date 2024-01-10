@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xing Keming / Personal Website"
 title_separator          : "-"
 name                     : &name "Xing Keming"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Xing Keming"
   avatar           : "my_photo.png"
   bio              : "Hello. Nice to meet you. I am person who like computer vision. If you have any doubt. Please contact me."
-  location         : "Location"
+  location         : "China-Shanghai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
