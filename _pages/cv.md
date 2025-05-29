@@ -62,24 +62,6 @@ Academic Projects
   - Built and evaluated Random Forest model using scikit-learn.  
   - Used data visualization for effective results presentation.
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 Service and Leadership
 ======
 * Led a team of 60+ student ambassadors and organized university-wide events for 300+ participants.
