@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title: "Xing Keming | Personal Academic Homepage"
+title: "Keming Xing | Personal Academic Homepage"
 title_separator          : "-"
 name: &name "Xing Keming"
 description: &description "MSECE @ Northeastern, Focused on CV, ML, and Data"
@@ -23,8 +23,8 @@ repository               : "kermit0125/kermit0125.github.io"
 author:
   # Biographic information
   avatar           : "Kermit.png"
-  name             : "Kermit"
-  pronouns         : "He/Him"  
+  name             : "Keming Xing"
+  pronouns         : "Kermit/He/Him"  
   bio              : "Welcome to my personal website"
   location         : "Boston, USA"
   employer         : "Northeastern University"
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
