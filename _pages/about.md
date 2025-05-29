@@ -6,8 +6,8 @@ author_profile: true
 
 ## 👋 Welcome 欢迎
 
-Hi! I'm **Xing Keming (邢珂铭)**, a master's student in the Department of Electrical and Computer Engineering at **Northeastern University**, USA.  
-你好！我是**邢珂铭（Xing Keming）**，目前就读于**美国东北大学（Northeastern University）**，攻读电子与计算机工程硕士学位。
+Hi! I'm **Keming Xing**, a master's student in the Department of Electrical and Computer Engineering at **Northeastern University**, USA.  
+你好！我是**邢珂铭**，目前就读于**美国东北大学**，攻读电子与计算机工程硕士学位。
 
 My academic interests focus on **Computer Vision**, **Machine Learning**, and **Data Analysis**.  
 我的研究方向主要集中在**计算机视觉**、**机器学习**与**数据分析**等领域。
