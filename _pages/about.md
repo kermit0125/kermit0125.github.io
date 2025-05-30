@@ -20,7 +20,7 @@ Thanks for visiting.
 
 ---
 
-## 📚 Website Sections 网站内容导航
+## 📚 Content Navigations 内容导航
 
 - 📄 **简历**：你可以在导航栏的 **CV** 页面查看我的完整简历，包括教育背景、技能、项目与工作经验。  
   📄 **CV**: You can view my complete resume, including education, skills, projects, and work experience in the **CV** tab.
