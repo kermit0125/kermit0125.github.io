@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title: "Keming Xing | Personal Academic Homepage"
+title: "Keming Xing | Homepage"
 title_separator          : "-"
 name: &name "Xing Keming"
 description: &description "MSECE @ Northeastern, Focused on CV, ML, and Data"
