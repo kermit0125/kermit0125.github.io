@@ -7,14 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## 📘 所有学期
+
 <ul>
-  {% for post in site.courses reversed %}
+  {% assign sorted_courses = site.courses | sort: 'title' %}
+  {% for course in sorted_courses %}
     <li>
-      <strong>{{ post.title }}</strong> ({{ post.semester }})<br>
-      <em>{{ post.description }}</em><br>
-      🔑 Keywords: {{ post.keywords | join: ", " }}<br>
-      📘 Project: {{ post.project }}
+      <a href="{{ course.url }}">{{ course.title }} ({{ course.semester_range }})</a>
     </li>
-    <br>
   {% endfor %}
 </ul>
