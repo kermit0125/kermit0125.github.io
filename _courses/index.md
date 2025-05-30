@@ -19,7 +19,7 @@ author_profile: true
 <div class="school-title">温州肯恩大学 / Wenzhou-Kean University</div>
 
 {% for course in sorted_courses %}
-  {% if course.sort_order <= 202199 %}
+  {% if course.sort_order <= 202408 %}
   <li>
     <strong>
       <a href="{{ course.url }}">{{ course.title_zh }} / {{ course.title }}</a> ({{ course.semester_range }})
@@ -36,7 +36,7 @@ author_profile: true
 <div class="school-title">美国东北大学 / Northeastern University</div>
 
 {% for course in sorted_courses %}
-  {% if course.sort_order > 202199 %}
+  {% if course.sort_order > 202408 %}
   <li>
     <strong>
       <a href="{{ course.url }}">{{ course.title_zh }} / {{ course.title }}</a> ({{ course.semester_range }})
