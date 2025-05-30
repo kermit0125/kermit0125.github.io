@@ -23,10 +23,10 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "简历CV"
     url: /cv/
     
-  - title: "Course learning experience"
+  - title: "课程学习经历Course learning experience"
     url: /courses/
     
   # - title: "CV"
