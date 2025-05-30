@@ -2,6 +2,7 @@
 title: "Spring-2022"
 title_zh: "春季学期 2022"
 semester_range: "02/14/2022 - 05/31/2022"
+sort_order: 202202
 layout: single
 permalink: /courses/spring-2022/
 author_profile: true
@@ -20,6 +21,7 @@ courses:
     name: Statistics
     name_zh: 统计学
 ---
+
 
 ## 春季学期 2022课程  
 ## Courses in Spring 2022
