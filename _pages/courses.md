@@ -19,7 +19,7 @@ author_profile: true
       </strong>
       <ul>
         {% for c in course.courses %}
-          <li>• {{ c.code }} - {{ c.name_zh }} / {{ c.name }}</li>
+          <li>{{ c.code }} - {{ c.name_zh }} / {{ c.name }}</li>
         {% endfor %}
       </ul>
     </li>
