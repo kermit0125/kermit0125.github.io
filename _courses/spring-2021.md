@@ -2,6 +2,7 @@
 title: "Spring-2021"
 title_zh: "春季学期 2021"
 semester_range: "02/22/2021 - 06/08/2021"
+sort_order: 202102
 layout: single
 permalink: /courses/spring-2021/
 author_profile: true
@@ -9,11 +10,12 @@ collection: courses
 courses:
   - code: CPS2231
     name: Advanced Java Language
-    name_zh: Java进阶语言
+    name_zh: Java语言进阶
   - code: MATH2110
     name: Discrete Mathematics
     name_zh: 离散数学
 ---
+
 
 ## 春季学期 2021课程  
 ## Courses in Spring 2021
