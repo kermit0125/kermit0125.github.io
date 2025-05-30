@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome to my personal website"
 author_profile: true
 ---
 
@@ -12,8 +12,8 @@ Hi! I'm **Keming Xing**, a master's student in the Department of Electrical and 
 我的研究方向主要集中在**计算机视觉**、**机器学习**与**数据分析**等领域。
 My academic interests focus on **Computer Vision**, **Machine Learning**, and **Data Analysis**.  
 
-本网站为我的个人主页，欢迎浏览！
-This website serves as my personal homepage.  
+本网站为我的个人学术主页，欢迎浏览！
+This website serves as my personal academic homepage.  
 
 感谢你的访问！
 Thanks for visiting.  
