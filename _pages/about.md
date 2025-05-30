@@ -12,20 +12,42 @@ Hi! I'm **Keming Xing**, a master's student in the Department of Electrical and 
 My academic interests focus on **Computer Vision**, **Machine Learning**, and **Data Analysis**.  
 我的研究方向主要集中在**计算机视觉**、**机器学习**与**数据分析**等领域。
 
-<!--
-🛠️ Projects / Skills / Interests:
-You can add a paragraph here about the technical tools, programming languages, or recent projects you’re working on.
-你可以在这里添加关于技能、使用的技术、项目经验、研究兴趣等的介绍。
--->
-
-<!--
-📄 Resume / 📬 Contact:
-You can also include a downloadable resume link and email contact here.
-你也可以在这里放上简历下载链接，或注明联系邮箱。
--->
-
 This website serves as my academic homepage.  
 本网站为我的学术主页，欢迎浏览！
 
 Thanks for visiting.  
 感谢你的访问！
+
+---
+
+## 📚 Website Sections 网站内容导航
+
+- 📄 **CV 简历**：你可以在导航栏的 **CV** 页面查看我的完整简历，包括教育背景、技能、项目与工作经验。  
+  📄 **CV**: You can view my complete resume, including education, skills, projects, and work experience in the **CV** tab.
+
+- 📘 **课程学习经历 Course Learning Experience**：你可以在该页面中详细了解我大学期间每个学期修读的课程，涵盖课程描述、知识关键词和项目经验。  
+  📘 **Course Learning Experience**: A detailed record of all my coursework by semester, with descriptions, keywords, and projects.
+
+- 📂 **其他页面**（Publications、Talks、Portfolio）也将陆续上线，敬请期待。  
+  📂 **Other pages** (Publications, Talks, Portfolio) are coming soon.
+
+---
+
+## 🎯 求职目标 Job Objective
+
+我目前正在积极寻找 **2025年秋季开始** 的**实习或全职工作**，可接受远程办公（Remote）或搬迁（Relocation）。  
+I am currently looking for **internships or full-time roles starting Fall 2025**, open to **remote or relocation** opportunities.
+
+**优先职位方向 / Preferred Roles**:
+- 机器学习工程师 / 计算机视觉工程师 / 数据分析师  
+- Machine Learning Engineer / Computer Vision Engineer / Data Analyst
+
+**也可考虑 / Also Open To**:
+- 软件工程师 / 全栈工程师 / 软件测试工程师  
+- Software Engineer / Full Stack Developer / Software QA Engineer
+
+🗺️ 地理偏好：加州、华盛顿、纽约、麻省、硅谷周边等地  
+📍 Location preference: CA, WA, NY, MA, and Silicon Valley area
+
+📄 [点击此处下载我的简历（PDF）](/files/Keming_Xing_Resume.pdf)  
+📄 [Click here to download my resume (PDF)](/files/Keming_Xing_Resume.pdf)
