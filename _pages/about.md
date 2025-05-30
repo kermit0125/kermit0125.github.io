@@ -49,5 +49,5 @@ I am currently looking for **internships or full-time roles starting Fall 2025**
 🗺️ 地理偏好：波士顿、加州、华盛顿、纽约、麻省、硅谷周边等地  
 📍 Location preference: Bos, CA, WA, NY, MA, and Silicon Valley area
 
-📄 [点击此处下载我的简历（PDF）](/files/Keming_Xing_Resume.pdf)  
-📄 [Click here to download my resume (PDF)](/files/Keming_Xing_Resume.pdf)
+📄 [点击此处下载我的简历（PDF）](/files/keming_xing_resume.pdf)  
+📄 [Click here to download my resume (PDF)](/files/keming_xing_resume.pdf)
