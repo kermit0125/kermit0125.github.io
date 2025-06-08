@@ -28,6 +28,10 @@ main:
     
   - title: "课程学习经历Course learning experience"
     url: /courses/
+  
+  - title: "项目Projects"
+  url: /projects/
+
     
   # - title: "CV"
   #   url: /cv-json/
