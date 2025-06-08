@@ -30,7 +30,7 @@ main:
     url: /courses/
   
   - title: "项目Projects"
-  url: /projects/
+    url: /projects/
 
     
   # - title: "CV"
