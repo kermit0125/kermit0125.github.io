@@ -12,6 +12,6 @@ author_profile: true
   <h2 id="{{ category }}">{{ category }}</h2>
   {% assign posts = site.projects | where_exp:"item", "item.categories contains category" %}
   {% for post in posts %}
-    - [{{ post.title }}]({{ post.url | relative_url }})
+  - [{{ post.title }}]({{ post.url | relative_url }})
   {% endfor %}
 {% endfor %}
