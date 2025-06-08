@@ -70,7 +70,7 @@ This project explored foundational concepts in generative modeling through hands
 ---
 
 ### 🔗 GitHub Repository | 项目源码  
-📁 [View on GitHub](https://github.com/kermit0125/Computer-Vision-based-Game-Development)  
-📁 [访问项目源码（中英文）](https://github.com/kermit0125/Computer-Vision-based-Game-Development)
+📁 [View on GitHub](https://github.com/kermit0125/VAE-and-GAN-on-the-Fashion-MNIST-Dataset-Using-PyTorch)  
+📁 [访问项目源码（中英文）](https://github.com/kermit0125/VAE-and-GAN-on-the-Fashion-MNIST-Dataset-Using-PyTorch)
 
 
