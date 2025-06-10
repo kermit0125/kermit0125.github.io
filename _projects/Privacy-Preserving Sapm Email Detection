@@ -1,7 +1,7 @@
 ---
 title: "隐私保护的垃圾邮件识别 / Privacy-Preserving Spam Email Detection"
 permalink: /projects/spam-detection-privacy/
-categories: ["数据分类 / Data Classification"]
+categories: ["数据分类", "Data Classification"]
 layout: single
 classes: wide
 ---
@@ -72,5 +72,5 @@ This project aims to build a lightweight, privacy-preserving spam email classifi
 ---
 
 ### 🔗 项目源码 | GitHub Repository  
-- 🔗 [访问项目 GitHub 仓库（中文说明）](https://github.com/kermit0125/Privacy-Preserving-Sapm-Email-Detection)  
-- 🔗 [View GitHub Repository (English)](https://github.com/kermit0125/Privacy-Preserving-Sapm-Email-Detection)
+- 🔗 [访问项目 GitHub 仓库（中文说明）](https://github.com/kermit0125/Privacy-Preserving-Spam-Email-Detection)  
+- 🔗 [View GitHub Repository (English)](https://github.com/kermit0125/Privacy-Preserving-Spam-Email-Detection)
