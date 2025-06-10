@@ -1,7 +1,7 @@
 ---
 title: "隐私保护的垃圾邮件识别 / Privacy-Preserving Spam Email Detection"
 permalink: /projects/spam-detection-privacy/
-categories: ["数据分类", "Data Classification"]
+categories: ["数据分类 / Data Classification"]
 layout: single
 classes: wide
 ---
@@ -31,16 +31,18 @@ November – December 2025
 
 ### 🎯 项目目标 | Objective  
 本项目旨在构建一个轻量、隐私保护的垃圾邮件分类系统。通过词频向量替代原始文本，实现本地化特征提取与降维处理，进一步比较多种分类模型（Random Forest 与 RBF-SVM）在不同预处理下的表现，最终实现高效的邮件识别。  
-This project aims to build a lightweight, privacy-preserving spam email classification system. By replacing raw text with word frequency vectors and applying local dimensionality reduction (e.g., PCA), we evaluate the performance of models like Random Forest and RBF-SVM under different preprocessing pipelines for accurate and secure classification.
+This project aimed to build a lightweight, privacy-preserving spam email classification system. By replacing raw text with word frequency vectors and applying dimensionality reduction techniques (e.g., PCA), the project compared the effectiveness of models like Random Forest and RBF-SVM under various preprocessing pipelines.
 
 ---
 
 ### 🔧 技术工具 | Technologies  
 - Python, scikit-learn, NumPy, Pandas  
-- Natural Language Processing (Word Frequency Vector)  
-- Random Forest, RBF Support Vector Machine (SVM)  
-- Principal Component Analysis (PCA), SMOTE  
-- Data Visualization with Seaborn & Matplotlib
+- 自然语言处理（词频向量化） / Natural Language Processing (Word Frequency Vector)  
+- 随机森林 / Random Forest  
+- 径向基核支持向量机 / RBF Support Vector Machine (SVM)  
+- 主成分分析 / Principal Component Analysis (PCA)  
+- SMOTE 欠采样平衡方法  
+- Seaborn 与 Matplotlib 可视化工具
 
 ---
 
@@ -62,7 +64,7 @@ This project aims to build a lightweight, privacy-preserving spam email classifi
 - 降维后模型整体精度仍保持在 89%–91%，特征数大幅减少  
 - 成功验证了词频向量在隐私场景下的可行性，无需处理原始邮件文本  
 - Random Forest 模型在泛化能力与可解释性上优于 SVM  
-- 图形结果展示了重要词汇、主成分投影与模型决策边界
+- 图形结果展示了重要词汇、主成分投影与模型决策边界  
 
 - Achieved over 90% accuracy with reduced input dimensions  
 - Preserved privacy by avoiding direct use of email content  
