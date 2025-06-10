@@ -1,11 +1,10 @@
 ---
 title: "移动云计算中的能量感知任务调度 / Energy-Aware Task Scheduling in Mobile Cloud Computing"
 permalink: /projects/energy-aware-task-scheduling/
-categories: ["其他", "Others"]
+categories: ["其他 / Others"]
 layout: single
 classes: wide
 ---
-
 ## 🧠 项目名称 | Project Title  
 **移动云计算中的能量感知任务调度 / Energy-Aware Task Scheduling in Mobile Cloud Computing**
 
