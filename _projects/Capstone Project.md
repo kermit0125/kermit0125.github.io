@@ -25,8 +25,8 @@ Involved in all three phases:
 ---
 
 ### 📆 项目周期 | Duration  
-2025年11月 – 12月  
-November – December 2025
+2024年03月 – 06月  
+March – June 2025
 
 ---
 
