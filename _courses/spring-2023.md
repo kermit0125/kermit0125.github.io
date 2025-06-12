@@ -46,3 +46,7 @@ courses:
 
 - **课程描述**：这门课程让我掌握了数据分析的基本方法与流程，包括数据清洗、特征提取、数据可视化和分类分析等。我学习了如何使用统计建模工具处理真实数据集，并初步接触了与机器学习相关的概念，如监督学习中的分类与回归方法。通过案例练习，我逐渐建立了利用数据支持决策与建模预测的能力。  
 - **Course Description**: This course taught me the basic methods and workflows of data analysis, including data cleaning, feature extraction, visualization, and classification. I learned how to use statistical modeling tools to handle real-world datasets and was introduced to concepts related to machine learning, such as classification and regression in supervised learning. Through case-based exercises, I gradually developed the ability to use data for decision support and predictive modeling.
+
+- 🔗 **相关项目 | Related Projects**:  
+  [脸部表情识别 / Facial Expression Recognition](/projects/facial-expression-recognition/)
+
