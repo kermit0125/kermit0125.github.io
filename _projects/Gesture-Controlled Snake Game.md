@@ -1,7 +1,7 @@
 ---
 title: "基于手势识别的贪吃蛇游戏 / Gesture-Controlled Snake Game"
 permalink: /projects/gesture-snake-game/
-categories: ["计算机视觉 / Computer Vision", "交互设计 / Interactive Design"]
+categories: ["计算机视觉 / Computer Vision"]
 layout: single
 classes: wide
 ---
