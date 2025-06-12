@@ -1,7 +1,7 @@
 ---
 title: "脸部表情识别 / Facial Expression Recognition"
 permalink: /projects/facial-expression-recognition/
-categories: ["数据分类 / Data Classification", ["计算机视觉 / Computer Vision"]
+categories: ["数据分类 / Data Classification", "计算机视觉 / Computer Vision"]
 layout: single
 classes: wide
 ---
