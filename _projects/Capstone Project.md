@@ -1,5 +1,5 @@
 ---
-title: "毕业项目：手势识别与农业推荐系统 / Capstone Project: Hand Gesture Detection and Crop Recommendation"
+title: "毕业项目：握笔姿势检测与农业推荐系统 / Capstone Project: Pen holding posture detection and agricultural recommendation system"
 permalink: /projects/graduation-capstone/
 categories: ["数据分类 / Data Classification", "计算机视觉 / Computer Vision"]
 layout: single
@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## 🧠 项目名称 | Project Title  
-**毕业项目：手势识别与农业推荐系统 / Capstone Project: Hand Gesture Detection and Crop Recommendation**
+**毕业项目：握笔姿势检测与农业推荐系统 / Capstone Project: Pen holding posture detection and agricultural recommendation system**
 
 ---
 
